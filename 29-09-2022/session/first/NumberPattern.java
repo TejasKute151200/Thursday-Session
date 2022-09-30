@@ -25,7 +25,7 @@ package session.first;
 //	}
 //}
 
-
+//Incomplete
 //1
 //10
 //101
@@ -33,17 +33,17 @@ package session.first;
 //10101
 //101010
 
-public class NumberPattern {
-	public static void main(String[] args) {
+// public class NumberPattern {
+// 	public static void main(String[] args) {
 		
-		for(int i=1;i<=1;i++)
-		{
-			 for(int j = 1;j<=i;j--)
-			 {
-				 System.out.print(j);
-			 }
-			 System.out.println();
-		}
-	}
-}
+// 		for(int i=1;i<=1;i++)
+// 		{
+// 			 for(int j = 1;j<=i;j--)
+// 			 {
+// 				 System.out.print(j);
+// 			 }
+// 			 System.out.println();
+// 		}
+// 	}
+// }
 
