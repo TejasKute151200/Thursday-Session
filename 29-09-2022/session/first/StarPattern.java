@@ -20,8 +20,8 @@ package session.first;
 //}
 
 
-									/* Print Triangle Pattern */
-//		*
+						/* Print Triangle Pattern */
+//	    *
 //	   * *
 //	  * * *
 //	 * * * *
